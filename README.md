@@ -1,20 +1,19 @@
-<h1 align="center">Hello! I'm Florian</h1>
-<h3 align="center">I'm currently studying software development. I enjoy coding and am currently learning and improving my skills.</h3>
+<h1 align="center">Hello, I'm Florian!</h1>
+<h3>I'm currently studying software development and learning and improving my skills.</h3>
 
-- 🔭 I’m currently working on **School projects and FiveM development**
+- 🔭 I’m working on **School Projects** and **FiveM Development**
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I'm currently exploring Blazor as part of my .NET development journey.
 
-- 👨‍💻 All of my public projects are available at [https://github.com/Florianvhunnik](https://github.com/Florianvhunnik)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://florianvh.dev/portfolio). (soon)
 
-- 📫 How to reach me **florian2006email@gmail.com**
+- 📫 How to reach me? **florian2006email@gmail.com**, **_.florian._** on Discord or some social media below:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/florianvhunnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="florianvhunnik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/florian-van-hunnik-3a9090293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian-van-hunnik-3a9090293" height="30" width="40" /></a>
 <a href="https://instagram.com/florianvanhunnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="florianvanhunnik" height="30" width="40" /></a>
-<a href="https://discord.gg/_.florian._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_.florian._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
